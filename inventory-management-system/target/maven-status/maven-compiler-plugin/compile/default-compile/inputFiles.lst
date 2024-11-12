@@ -1,0 +1,12 @@
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\servlet\SearchProductServlet.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\dao\ProductDAO.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\util\GenerateProductHashes.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\servlet\TransferProductServlet.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\config\DatabaseConfig.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\dijkstra\DijkstraAlgorithm.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\model\Product.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\servlet\ProductServlet.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\model\Warehouse.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\dao\WarehouseDAO.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\servlet\UpdateStockServlet.java
+C:\Users\devan\OneDrive\Desktop\inventory-optimization-platform-main\inventory-optimization-platform-main\inventory-management-system\src\main\java\com\inventory\util\HashUtil.java
